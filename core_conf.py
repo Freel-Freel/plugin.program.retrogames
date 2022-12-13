@@ -1,0 +1,16 @@
+CoreDict={
+".gen":"picodrive",
+".smd":"picodrive",
+".sms":"genesis-plus",
+".nes":"fceumm",
+".cso":"ppsspp",
+".cue":"pcsx-rearmed",
+".smc":"snes9x2010",
+".v64":"mupen64plus",
+".z64":"mupen64plus",
+".gba":"mgba",
+".wbfs":"dolphin",
+".zip":"mame2010",
+".cdi":"flycast",
+".img":"pcsx2",
+}
